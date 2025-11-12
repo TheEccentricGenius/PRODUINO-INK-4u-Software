@@ -1,4 +1,4 @@
-# How to add the Uno 4u board to the Arduino IDE.
+# How to add the INK 4u board to the Arduino IDE.
 
 If you haven't already installed DxCore install it using these instructions, <i><a href="https://github.com/SpenceKonde/DxCore/blob/master/Installation.md#boards-manager-installation-now-strongly-recommended-unless-helping-with-core-development">installing DxCore.</a></i>
 
