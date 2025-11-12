@@ -14,9 +14,9 @@ Copy the boards.txt from this package and use it to replace the boards.txt in yo
 
 Close and reopen the Arduino IDE, you should have a menu option like one of the pictures below.
 </br>
-<img src="https://github.com/user-attachments/assets/3bf714d8-54c0-4a8d-9c62-9cc9a801dd84" width="75%" height="75%">
+<img src="https://github.com/user-attachments/assets/83e5a0f8-6913-40b7-b450-64fbeb335205" width="75%" height="75%">
 <br><i>If using Arduino IDE version 1.8.19 or below.</i></br>
 </br>
 
-<img src="https://github.com/user-attachments/assets/d0bdf9a2-cebf-4ec0-8d03-f1eeaf5c1f02" width="75%" height="75%">
+<img src="https://github.com/user-attachments/assets/3173745a-1326-4f2a-a33a-df211ded3d47" width="75%" height="75%">
 <br><i>If using Arduino IDE version 2.0 or higher.</i></br>
